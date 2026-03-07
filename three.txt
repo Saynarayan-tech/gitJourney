@@ -1,1 +1,1 @@
-var txt="mainframe"
+var txt="jjavascript"
