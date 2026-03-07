@@ -1,0 +1,2 @@
+# gitJourney
+First git repo
