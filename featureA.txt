@@ -1,1 +1,2 @@
 changes in feature.txt directly in github
+changes reverted in featureA branch
