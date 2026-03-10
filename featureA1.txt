@@ -1,1 +1,2 @@
-new feature file added on git
+new feature file added on git.
+another line of content added
